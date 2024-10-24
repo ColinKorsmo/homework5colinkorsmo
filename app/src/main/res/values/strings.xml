@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Clickbait App</string>
+    <string name="traveltitle">BuzzFeed</string>
+    <string name="travel">10 Unbelievable Travel Destinations You Never Knew Existed! You Won\'t Believe #10!"</string>
+    <string name="traveltime">22m ago</string>
+    <string name="pettitle">InfoFrenzyHub</string>
+    <string name="pet">15 Adorable Pets Reacting to Their Reflections – You Won\'t Believe #7!</string>
+    <string name="pettime">1h ago</string>
+    <string name="fantasytitle">ViralInsightGlobe</string>
+    <string name="fantasy">Quiz: Which Fictional Fantasy World Should You Actually Live In?</string>
+    <string name="fantasytime">16h ago</string>
+    <string name="diytitle">ViralInsightGlobe</string>
+    <string name="diy">The Ultimate DIY Hacks to Transform Your Small Space into a Palace!</string>
+    <string name="diytime">36m ago</string>
+    <string name="cartoonstitle">CuriositySphere</string>
+    <string name="cartoons">Can You Guess These 90s Cartoon Theme Songs? Take the Nostalgia Quiz!</string>
+    <string name="cartoonstime">2d ago</string>
+    <string name="pizzatitle">InfoFrenzyHub</string>
+    <string name="pizza">Discover Your Perfect Pizza Topping Based on Your Zodiac Sign! Virgo\'s Will Lose Their Minds!</string>
+    <string name="pizzatime">42m ago</string>
+    <string name="celebritytitle">TrendUnveilArena</string>
+    <string name="celebrity">Jaw-Dropping Celebrity Lookalikes That Will Make You Do a Double Take!</string>
+    <string name="celebritytime">12m ago</string>
+    <string name="junkfoodtitle">BuzzFeed</string>
+    <string name="junkfood">The Great Junk Food Showdown: Which Snack Will Win the Taste Test?</string>
+    <string name="junkfoodtime">2h ago</string>
+    <string name="soulmatetitle">CuriositySphere</string>
+    <string name="soulmate">Find Out Your Celebrity Soulmate with This Totally Accurate Quiz!</string>
+    <string name="soulmatetime">4h ago</string>
+    <string name="lifehackstitle">HuffPost</string>
+    <string name="lifehacks">Incredible Life Hacks That Will Change Your Daily Routine Forever!</string>
+    <string name="lifehackstime">51m ago</string>
+</resources>
